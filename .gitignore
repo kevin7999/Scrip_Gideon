@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+logs/
+Evidencias_QA*/
+.env
+.venv
+env/
+venv/
+*.log
